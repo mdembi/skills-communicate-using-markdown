@@ -12,4 +12,9 @@ I have now created headers 1-6
 ##### This is an H5 header with code underneath
 ``` java
 int number = 1;
-``` 
+```
+
+### This is an H3 header with a task list underneath
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
